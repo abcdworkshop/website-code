@@ -36,6 +36,12 @@ paginate = 10
    url  = "/families/"
    weight = 3
    
+[[menu.main]]
+   identifier="resources"
+   name = "Resources"
+   url  = "/resources/"
+   weight = 4
+   
 #[[menu.main]]
 #    identifier = "faq"
 #    name = "FAQ"
