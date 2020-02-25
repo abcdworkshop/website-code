@@ -42,6 +42,12 @@ paginate = 10
    url  = "/resources/"
    weight = 4
    
+[[menu.main]]
+   identifier="gallery"
+   name = "Photo Gallery"
+   url  = "/gallery/"
+   weight = 5
+   
 #[[menu.main]]
 #    identifier = "faq"
 #    name = "FAQ"
